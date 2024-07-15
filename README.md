@@ -1,4 +1,4 @@
 # harkiratcoder.github.io
 ##This is my Activity Report for  Student Induction Programe 
-| Date | Resourse Person | Duration |
-| 15.07.24 | Dr Pyare Lal | 1:30 Minutes | 
+| Date | Resourse Person | Description |
+| 15.07.24 | Dr Pyare Lal | They told us very important thinga | 
